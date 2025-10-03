@@ -2,7 +2,7 @@
 
 **`Data Scientist | GIS Developer | Geoprocessing Analyst`**
 
-Hi everyone! My name is Miguel, I’m a Biologist with a Master’s in Remote Sensing. I’m currently working as a developer automating the Amazon PRODES system, part of the BiomasBR satellite monitoring program. I have experience in land use/land cover change monitoring, landscape ecology, and applying image processing/data analysis techniques to geospatial data.
+Hi everyone! I’m currently working as a developer automating the Amazon PRODES system, part of the BiomasBR satellite monitoring program. I have experience in land use/land cover change monitoring, landscape ecology, and applying image processing/data analysis techniques to geospatial data.
 
 <p align="left">
     <a href="https://github.com/migualex?tab=repositories&sort=stargazers">
