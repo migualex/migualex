@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Miguel Cunha
 
-**`Cientista Geoespacial | Desenvolvedor GIS`**
+**`Data Scientist| GIS Developer | Geoprocessing Analyst`**
 
 Bacharel em Ciências Biológicas pela Universidade do Vale do Paraíba (UNIVAP) e mestre em Sensoriamento Remoto pelo Instituto Nacional de Pesquisas Espaciais (INPE). Desenvolvedor na automatização do PRODES Amazônia, integrado ao Programa de Monitoramento por Satélite dos Biomas Brasileiros (BiomasBR). Tem experiência em pesquisas relacionadas ao monitoramento e à caracterização das mudanças no uso e cobertura da terra, ecologia da paisagem e na aplicação de técnicas de PDI para análise de dados geoespaciais.
 
