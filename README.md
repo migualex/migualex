@@ -33,7 +33,7 @@ Hi everyone! I’m currently working as a developer automating the Amazon PRODES
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages
 
 <img 
     align="left" 
