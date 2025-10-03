@@ -2,7 +2,7 @@
 
 **`Data Scientist | GIS Developer | Geoprocessing Analyst`**
 
-Bacharel em Ciências Biológicas pela Universidade do Vale do Paraíba (UNIVAP) e mestre em Sensoriamento Remoto pelo Instituto Nacional de Pesquisas Espaciais (INPE). Desenvolvedor na automatização do PRODES Amazônia, integrado ao Programa de Monitoramento por Satélite dos Biomas Brasileiros (BiomasBR). Tem experiência em pesquisas relacionadas ao monitoramento e à caracterização das mudanças no uso e cobertura da terra, ecologia da paisagem e na aplicação de técnicas de PDI para análise de dados geoespaciais.
+Hi everyone! My name is Miguel, I’m a Biologist with a Master’s in Remote Sensing. I’m currently working as a developer automating the Amazon PRODES system, part of the BiomasBR satellite monitoring program. I have experience in land use/land cover change monitoring, landscape ecology, and applying image processing/data analysis techniques to geospatial data.
 
 <p align="left">
     <a href="https://github.com/migualex?tab=repositories&sort=stargazers">
