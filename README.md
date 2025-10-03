@@ -15,17 +15,16 @@ Hi everyone! I’m currently working as a developer automating the Amazon PRODES
   </a>
   <a href="https://github.com/migualex?tab=followers">
     <img 
-      alt="SEGUIDORES" 
-      title="SEGUIDORES" 
-      src="https://custom-icon-badges.demolab.com/github/followers/migualex?color=000000&labelColor=000000&style=for-the-badge&logo=github&logoColor=white&label=followers"
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/migualex?color=0e0e0e&labelColor=000000&style=for-the-badge&logo=github&logoColor=white&label=followers"
       style="border-radius:0; margin:0; padding:0;"
     />
-  </a>
   <a href="https://www.linkedin.com/in/miguelalexandredacunha/">
     <img 
       alt="Conexões LinkedIn +500" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-+500-1155ba?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1155ba"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-+500-236ad3?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1155ba" 
       style="border-radius:0; margin:0; padding:0;"
     />
   </a>
