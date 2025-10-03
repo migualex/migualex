@@ -9,23 +9,23 @@ Hi everyone! I’m currently working as a developer automating the Amazon PRODES
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/migualex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/migualex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/migualex?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/migualex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <img 
+        alt="SEGUIDORES" 
+        title="SEGUIDORES" 
+        src="https://custom-icon-badges.demolab.com/github/followers/migualex?color=000000&labelColor=000000&style=for-the-badge&logo=github&logoColor=white"
+    />
     </a>
     <a href="https://www.linkedin.com/in/miguelalexandredacunha/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn/500+-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+    <img 
+        alt="Conexões LinkedIn +500" 
+        title="Conecte-se comigo no LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155ba?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1155ba"
+    />
+</a>
 </p>
 
 ---
