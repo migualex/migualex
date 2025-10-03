@@ -1,5 +1,3 @@
-# 👨🏻‍💻 Miguel Cunha
-
 **`Data Scientist | GIS Developer | Geoprocessing Analyst`**
 
 Hi everyone! I’m currently working as a developer automating the Amazon PRODES system, part of the BiomasBR satellite monitoring program. I have experience in land use/land cover change monitoring, landscape ecology, and applying image processing/data analysis techniques to geospatial data.
