@@ -1,6 +1,6 @@
 **`Data Scientist | GIS Developer | Geoprocessing Analyst`**
 
-Hi everyone! I’m currently working as a developer automating the Amazon PRODES system, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). I’ve got experience in land use/land cover change monitoring, landscape ecology, and applying remote sensing techniques for geospatial data analysis. Feel free to contact me on LinkedIn.
+Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, which is part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). I’ve got experience in land use/land cover change monitoring, landscape ecology, and applying remote sensing techniques for geospatial data analysis. Feel free to contact me on LinkedIn.
 
 <p align="left" style="display:flex; gap:0; margin:0; padding:0;">
   <a href="https://github.com/migualex?tab=repositories&sort=stargazers">
