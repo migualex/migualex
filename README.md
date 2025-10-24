@@ -6,7 +6,7 @@ Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, whic
   <img 
     alt="Total de estrelas"
     title="Total de estrelas no GitHub"
-    src="https://img.shields.io/github/stars/migualex?style=for-the-badge&color=55960c&labelColor=488207&logo=github&logoColor=white&label=★ stars"
+    src="https://img.shields.io/github/stars/migualex?style=for-the-badge&color=55960c&labelColor=488207&logo=star&label=stars"
   />
 </a>
 <a href="https://github.com/migualex?tab=followers">
