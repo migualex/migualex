@@ -2,22 +2,21 @@
 
 Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, which is part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). I’ve got experience in land use/land cover change monitoring, landscape ecology, and applying remote sensing techniques for geospatial data analysis. Feel free to contact me on LinkedIn.
 
-<p align="left" style="display:flex; gap:0; margin:0; padding:0;">
-  <a href="https://github.com/migualex?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/migualex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-      style="border-radius:0; margin:0; padding:0;"
-    />
-  </a>
-  <a href="https://github.com/migualex?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/migualex?color=0e0e0e&labelColor=000000&style=for-the-badge&logo=github&logoColor=white&label=followers"
-      style="border-radius:0; margin:0; padding:0;"
-    />
+<a href="https://github.com/migualex?tab=repositories&sort=stargazers">
+  <img 
+    alt="Total de estrelas"
+    title="Total de estrelas no GitHub"
+    src="https://img.shields.io/github/stars/migualex?style=for-the-badge&color=55960c&labelColor=488207&logo=star&label=stars"
+  />
+</a>
+
+<a href="https://github.com/migualex?tab=followers">
+  <img 
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://img.shields.io/github/followers/migualex?style=for-the-badge&color=0e0e0e&labelColor=000000&logo=github&logoColor=white&label=followers"
+  />
+</a>
   <a href="https://www.linkedin.com/in/miguelalexandredacunha/">
     <img 
       alt="Conexões LinkedIn +500" 
