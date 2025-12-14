@@ -18,7 +18,7 @@ Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, whic
 </a>
   <a href="https://www.linkedin.com/in/miguelalexandredacunha/">
     <img 
-      alt="Conexões LinkedIn 772" 
+      alt="Conexões LinkedIn 787" 
       title="Conecte-se comigo no LinkedIn" 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-772-236ad3?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1155ba" 
       style="border-radius:0; margin:0; padding:0;"
