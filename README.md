@@ -54,5 +54,13 @@ Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, whic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
+<img 
+  align="left" 
+  alt="PostgreSQL" 
+  title="PostgreSQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 <br/>
 <br/>
