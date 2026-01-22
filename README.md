@@ -1,4 +1,4 @@
-**`Data Scientist | GIS Developer | Geoprocessing Analyst`**
+**`GIS Developer | Data Analyst | SQL, Power BI, Python, ETL`**
 
 Hi everyone! I’m working as a GIS developer for the Amazon PRODES system, which is part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). I’ve got experience in land use/land cover change monitoring, landscape ecology, and applying remote sensing techniques for geospatial data analysis. Feel free to contact me on LinkedIn.
 
