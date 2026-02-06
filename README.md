@@ -3,7 +3,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>I'm Miguel! 🇧🇷🇵🇹. I am a GIS developer 🛰️💻.</p>
+<p>I'm Miguel! 🇧🇷🇵🇹. I am a GIS developer.</p>
 <h3>Things I code with:</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
