@@ -1,68 +1,27 @@
-**`GIS Developer @INPE | Data Analyst | Remote Sensing`**
+[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0002-0082-9498)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/miguelalexandredacunha/)
 
-👋 Hello, I’m Miguel! 
+<h1>Hi there! 👋</h1>
 
-I am a GIS developer on the Amazon Prodes system, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). My professional background also includes research focused on monitoring and analysis of land use and land cover change, landscape ecology, and the application of remote sensing techniques for geospatial data analysis. Feel free to contact me!
-
-<a href="https://github.com/migualex?tab=repositories&sort=stargazers">
-  <img 
-    alt="Total de estrelas"
-    title="Total de estrelas no GitHub"
-    src="https://img.shields.io/github/stars/migualex?style=for-the-badge&color=55960c&labelColor=488207&logo=star&label=stars"
-  />
-</a>
-<a href="https://github.com/migualex?tab=followers">
-  <img 
-    alt="Seguidores"
-    title="Me siga no GitHub"
-    src="https://img.shields.io/github/followers/migualex?style=for-the-badge&color=0e0e0e&labelColor=000000&logo=github&logoColor=white&label=followers"
-  />
-</a>
-  <a href="https://www.linkedin.com/in/miguelalexandredacunha/">
-    <img 
-      alt="Conexões LinkedIn 816" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-816-236ad3?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1155ba" 
-      style="border-radius:0; margin:0; padding:0;"
-    />
-  </a>
+<p>I'm Miguel! 🇧🇷🇵🇹. I am a GIS developer 🛰️💻.</p>
+<h3>Things I code with:</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+<h3>Libraries I am used to work:</h3>
+<p>
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 Programming Languages
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="R" 
-    title="R"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="PostgreSQL" 
-  title="PostgreSQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<br/>
-<br/>
+> NOTE: Feel free to send me a message.
