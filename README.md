@@ -1,4 +1,4 @@
-**`GIS Developer | Data Analyst | SQL, Power BI, Python, ETL`**
+**`GIS Developer @INPE | Data Analyst | Remote Sensing`**
 
 👋 Hello, I’m Miguel! 
 
