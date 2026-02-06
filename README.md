@@ -30,11 +30,7 @@
 > NOTE: Feel free to send me a message.
 
 </div>
- 
  ##
- 
  <div align="center"> 
-
   ![Snake animation](https://github.com/arianacabral/arianacabral/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
