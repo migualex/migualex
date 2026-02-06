@@ -1,5 +1,6 @@
-[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0002-0082-9498)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0001-5580-9075)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/miguelalexandredacunha/)
+[![Discord Badge](https://img.shields.io/badge/Discord-migualex-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
 <h1>Hi there! 👋</h1>
 
