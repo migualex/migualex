@@ -4,7 +4,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>I'm Miguel! 🇧🇷🇵🇹. I am a GIS Specialist on the Amazon Prodes system, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR-INPE).</p>
+<p>I'm Miguel! 🇧🇷. I am a GIS Specialist on the Amazon Prodes system, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR-INPE).</p>
 <h3>Things I code with:</h3>
 <p>
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
