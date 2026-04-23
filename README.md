@@ -2,9 +2,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/miguelalexandredacunha/)
 [![Discord Badge](https://img.shields.io/badge/Discord-migualex-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
-<h1>Hi there! 👋 I'm Miguel</h1>
+<h1>Hi there! 👋</h1>
 
-<p>GIS Developer at <strong>Amazon PRODES</strong>, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). Follow me to stay updated!</p>
+<p>I am GIS Developer at <strong>Amazon Prodes</strong>, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). Follow me to stay updated!</p>
 
 <h3>Things I code with:</h3>
 <p>
