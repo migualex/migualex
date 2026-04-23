@@ -2,20 +2,23 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/miguelalexandredacunha/)
 [![Discord Badge](https://img.shields.io/badge/Discord-migualex-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
-<h1>Hi there! 👋</h1>
+<h1>Hi there! 👋 I'm Miguel</h1>
 
-<p>I'm Miguel! I am a GIS Developer on the Amazon Prodes system, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). Follow me to stay updated!</p>
+<p>GIS Developer at <strong>Amazon PRODES</strong>, part of the Satellite Monitoring Program for Brazilian Biomes (BiomasBR). Follow me to stay updated!</p>
+
 <h3>Things I code with:</h3>
 <p>
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
+</p>
 
-<h3>Libraries I am used to work:</h3>
+<h3>Libraries I work with:</h3>
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -25,4 +28,4 @@
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-> NOTE: Feel free to send me a message.
+> Always happy to connect with others working on geospatial, environmental data, or open science.
