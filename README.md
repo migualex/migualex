@@ -4,8 +4,8 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>I am a GIS Developer at Amazon Prodes, part of the Satellite Monitoring Program for Brazilian Biomes (<strong>BiomasBR</strong>). 
-  Follow me to stay updated!</p>
+<p>I am a GIS Developer at Satellite Monitoring Program for Brazilian Biomes (<strong>BiomasBR</strong>).</p>
+<p>Follow me to stay updated!</p>
 
 <h3>Things I code with:</h3>
 <p>
