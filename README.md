@@ -4,7 +4,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>I am a Geospatial Data Scientist at Satellite Monitoring Program for Brazilian Biomes (BiomasBR).</p>
+<p>I am a Geospatial Data Scientist at the Satellite Monitoring Program for Brazilian Biomes (BiomasBR).</p>
 <p>Follow me to stay updated!</p>
 
 <h3>Things I code with:</h3>
